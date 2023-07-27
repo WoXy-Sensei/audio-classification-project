@@ -28,6 +28,8 @@ Wondering how you can get started with this project? It's quite simple! Here are
 
 I'm really excited about this project and I would love to make it better. If you have any ideas for improvements, new features, or if you find any issues, please don't hesitate to let me know. Contributions are more than welcome, and I truly appreciate any help in enriching this project further.
 
-## License
 
+## License
 This project is open-source and licensed under the MIT License. For more details, please see the "LICENSE" file.
+
+![Project Preview](https://media.tenor.com/_Mms1SK44IcAAAAC/sword-art.gif)
